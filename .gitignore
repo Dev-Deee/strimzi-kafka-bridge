@@ -27,7 +27,6 @@ hs_err_pid*
 
 # VS Code
 .factorypath
-.vscode
 
 .DS_Store
 
@@ -40,3 +39,5 @@ documentation/book/build/**
 .claude/
 .mcp.json
 .bob/
+config.bat
+node_modules
